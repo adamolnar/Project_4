@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['grazathlon.herokuapp.com' ,'8000-adamolnar-project4-nmv7xeypu5j.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['grazathlon-dbcc3c8a391d.herokuapp.com' ,'8000-adamolnar-project4-nmv7xeypu5j.ws-eu105.gitpod.io']
 
 
 # Application definition
